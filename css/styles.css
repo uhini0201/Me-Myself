@@ -1,0 +1,131 @@
+.top-container {
+  background-color: #E4F9F5;
+  padding: 20px;
+  position: relative;
+  padding-top: 100px;
+
+}
+body {
+  color: #40514E;
+  position: relative;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+h1 {
+  font-size: 5.625rem;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento',sans-serif;
+  color: #66BFBF;
+}
+p {
+  line-height: 2;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+.intro {
+  margin: auto;
+  width: 30%;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.middle-container {
+
+}
+.bottom-container {
+  background-color: #66BFBF;
+}
+.a {
+  color: #11999E;
+  padding: 50px 0px 20px;
+}
+.skill-row {
+  text-align: left;
+  margin-left: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+  padding-left: 100px;
+}
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+.hey {
+  text-decoration: underline;
+}
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.uhini {
+  padding: 10px;
+  height: 400px;
+  width: 300px;
+  border-radius: 100%;
+
+}
+.pro {
+  text-decoration: underline;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.fullstack {
+
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.code {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+.btn{
+    text-decoration: none;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to bottom, #11CDD4, #11999E);
+    border-radius: 8px;
+    padding:10px 20px 10px 20px;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+
+}
+.btn:hover{
+  background: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  border-radius: 8px;
+}
